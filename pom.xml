@@ -123,7 +123,7 @@
             <plugin>
                 <groupId>org.codehaus.mojo</groupId>
                 <artifactId>versions-maven-plugin</artifactId>
-                <version>2.1-with-increment</version>
+                <version>2.7</version>
                 <executions>
                     <execution>
                         <id>update-pom-version</id>
